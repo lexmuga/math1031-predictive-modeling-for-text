@@ -2,7 +2,7 @@
 
 **GenAI Policy for MATH 103.1**
 
-*Predictive Analytics for Text*
+*Predictive Modeling for Text*
 
 Version 1.0
 
